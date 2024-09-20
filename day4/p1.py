@@ -1,4 +1,4 @@
-#inheritance
+#inheritance program
 class A(object):
     pass
 
