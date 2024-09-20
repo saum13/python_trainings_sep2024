@@ -1,0 +1,7 @@
+num,question,option1,option2,option3,option4,correctoption
+1,10+20 is equal to,20,30,40,10,op2
+2,20-10 is equal to,20,30,40,10,op4
+3,2*2 is equal to,4,5,6,7,op1
+4,5/2 is equal to,2.5,3,6,7,op1
+5,Capital of India is,Delhi,Bangalore,Mumbai,Chennai,op1
+6,Linux is a,Operating System,Application,Game,Antivirus,op1
