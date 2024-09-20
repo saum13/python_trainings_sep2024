@@ -1,3 +1,4 @@
+#inheritance
 class A(object):
     pass
 
