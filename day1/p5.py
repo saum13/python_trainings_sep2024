@@ -1,3 +1,4 @@
+#Add the digits of numbers till one digit remain
 def reduce_to_single_digit(num):
     while num >= 10:
         temp = 0

@@ -1,4 +1,4 @@
-#sqrt
+#Square root
 
 import math
 

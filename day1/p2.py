@@ -1,4 +1,4 @@
-
+#Average Score
 avg_score=int(input())
 if (avg_score>=0 or avg_score<101):
     print("fail")
