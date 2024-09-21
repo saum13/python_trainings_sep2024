@@ -1,0 +1,21 @@
+num,question,option1,option2,option3,option4,correctoption
+1,Who played Spiderman?,op1=Tobey Maguire,op2=Tom Holland,op3=Andrew Garfield,op4=All of the above,op4
+2,What is the capital city of Australia?,op1=Sydney,op2=Melbourne,op3=Canberra,op4=Brisbane,op3
+3,Who is the author of the Harry Potter series?,op1=J.K. Rowling,op2=Stephen King,op3=Dan Brown,op4=Terry Pratchett,op1
+4,Which sport is associated with the term "Grand Slam"?,op1=Tennis,op2=Cricket,op3=Golf,op4=Football,op1
+5,What is the largest continent in the world?,op1=Asia,op2=Africa,op3=North America,op4=South America,op1
+6,Who painted the Mona Lisa?,op1=Leonardo da Vinci,op2=Pablo Picasso,op3=Vincent van Gogh,op4=Michelangelo,op1
+7,What is the chemical symbol for gold?,op1=Au,op2=Ag,op3=Cu,op4=Fe,op1
+8,What planet is known as the Red Planet?,op1=Earth,op2=Venus,op3=Mars,op4=Jupiter,op3
+9,Which element has the atomic number 1?,op1=Helium,op2=Hydrogen,op3=Oxygen,op4=Carbon,op2
+10,What is the smallest prime number?,op1=0,op2=1,op3=2,op4=3,op3
+11,Which gas do plants absorb from the atmosphere?,op1=Oxygen,op2=Carbon Dioxide,op3=Nitrogen,op4=Hydrogen,op2
+12,Who wrote "Romeo and Juliet"?,op1=Charles Dickens,op2=William Shakespeare,op3=Mark Twain,op4=Jane Austen,op2
+13,What is the hardest natural substance on Earth?,op1=Gold,op2=Iron,op3=Diamond,op4=Quartz,op3
+14,Which country is known as the Land of the Rising Sun?,op1=China,op2=Japan,op3=Thailand,op4=South Korea,op2
+15,What is the main ingredient in guacamole?,op1=Tomato,op2=Avocado,op3=Pepper,op4=Onion,op2
+16,In which year did the Titanic sink?,op1=1905,op2=1912,op3=1915,op4=1920,op2
+17,What is the capital of Canada?,op1=Toronto,op2=Ottawa,op3=Vancouver,op4=Montreal,op2
+18,Who is known as the "Father of Modern Physics"?,op1=Isaac Newton,op2=Albert Einstein,op3=Niels Bohr,op4=Galileo Galilei,op2
+19,What is the largest ocean on Earth?,op1=Atlantic Ocean,op2=Indian Ocean,op3=Arctic Ocean,op4=Pacific Ocean,op4
+20,Which animal is known as the King of the Jungle?,op1=Elephant,op2=Tiger,op3=Lion,op4=Giraffe,op3

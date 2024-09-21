@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Exam</title>
+</head>
+<body>
+    <h1>Online Quiz</h1>
+    <form method="POST" action="/">
+        <label for="name">Enter your name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+        <label for="university">Enter your university:</label><br>
+        <input type="text" id="university" name="university" required><br><br>
+
+        {% for question in questions %}
+            <h3>{{ question.num }}. {{ question.question }}</h3>
+            <input type="radio" name="question_{{ question.num }}" value="1"> {{ question.option1[4:] }}<br>
+            <input type="radio" name="question_{{ question.num }}" value="2"> {{ question.option2[4:] }}<br>
+            <input type="radio" name="question_{{ question.num }}" value="3"> {{ question.option3[4:] }}<br>
+            <input type="radio" name="question_{{ question.num }}" value="4"> {{ question.option4[4:] }}<br>
+        {% endfor %}
+
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

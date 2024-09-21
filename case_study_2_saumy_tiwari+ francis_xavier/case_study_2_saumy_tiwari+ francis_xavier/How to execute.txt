@@ -1,0 +1,11 @@
+
+In VS Code :
+
+Open the folder
+Run app.py
+
+
+In Terminal : 
+
+Open the terminal at the folder location
+type python app.py

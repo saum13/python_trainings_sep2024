@@ -1,0 +1,10 @@
+
+
+Suppose if your laptop doesn't have a flask module installed.
+
+Then, use pip command to install python
+pip install flask
+
+verify package 
+
+then run app.py
